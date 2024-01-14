@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #FFFFFF; /* White background */
+}
+
+h1 {
+    color: #336699; /* Royal Blue for main headings */
+}
+
+h2 {
+    color: #336699;
+    margin-top: 20px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+code {
+    background-color: #F4F4F4; /* Light Gray for code blocks */
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Accent color for specific elements, e.g., links */
+a {
+    color: #FFD700; /* Gold for links */
+}
+
+/* Additional styling for emphasis or important information */
+strong {
+    color: #336699; /* Royal Blue for strong emphasis */
+}
